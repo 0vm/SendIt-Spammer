@@ -6,6 +6,8 @@ python spammer.py
 
 Install Python. https://youtu.be/Kn1HF3oD19c?t=40
 
+If You Do Get Blocked, Use A VPN or Restart Your Modem/Router.
+
 
 # Changes
 Added a title bar that displays the total messages sent.
