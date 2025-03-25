@@ -13,9 +13,6 @@ If You Do Get Blocked, Use A VPN or Restart Your Modem/Router.
 Added a title bar that displays the total messages sent.
 
 Made it noob friendly for people who don't know what threads are.
-
-# Credit
-Original File From https://github.com/GenixZero/SendIt-Bot
  
  
  
