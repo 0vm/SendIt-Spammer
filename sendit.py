@@ -3,7 +3,7 @@ import threading
 import string
 import random
 import os
-os.system('title SendIt Spammer      [github.com/0vm/SendIt-Spammer]')
+os.system('title SendIt Spammer      [github.com/0vm/SendIt-auto]')
 
 url = input('SendIt URL? ')
 message = input('Enter Message: ')
