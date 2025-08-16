@@ -1,5 +1,5 @@
 # SendIt Messages
-Sendit allows you to send a large amount of messages to users.
+Sendit auto allows you to send a large amount of messages to users in a short period of time.
 
 # Usage
 python sendit.py
