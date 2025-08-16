@@ -1,18 +1,18 @@
-# SendIt Spammer
-Sendit Bots allows you to spam users with notifications and messages.
+# SendIt Messages
+Sendit allows you to send a large amount of messages to users.
 
 # Usage
-python spammer.py
+python sendit.py
 
 Install Python. https://youtu.be/Kn1HF3oD19c?t=40
 
-If You Do Get Blocked, Use A VPN or Restart Your Modem/Router.
+If You Do Get Blocked, Use A VPN.
 
 
 # Changes
 Added a title bar that displays the total messages sent.
 
-Made it noob friendly for people who don't know what threads are.
+Made it friendly for people who don't know what threads are.
  
  
  
